@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Python generated files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+sdist/
+develop-eggs/
+.idea/
+.vscode/
+*.swp
