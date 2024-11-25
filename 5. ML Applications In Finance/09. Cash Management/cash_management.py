@@ -4,7 +4,7 @@ We'll use Linear Programming (via PuLP library) to optimize the allocation
 based on constraints such as emergency cash needs, expected returns, and risk tolerance.
 """
 
-# Importing required libraries
+# Importing required librariess
 import pandas as pd
 import numpy as np
 from pulp import LpMaximize, LpProblem, LpVariable, lpSum
