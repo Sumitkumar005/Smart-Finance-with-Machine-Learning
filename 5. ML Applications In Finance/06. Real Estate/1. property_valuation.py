@@ -9,7 +9,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.model_selection import cross_val_score
 
-# Load the dataset (e.g., real estate data)
+# Load the dataset (e.g., real estate data))
 # Make sure to replace 'real_estate_data.csv' with the correct path to your dataset
 data = pd.read_csv('real_estate_data.csv')
 
