@@ -15,7 +15,7 @@ from sklearn.model_selection import cross_val_score
 # Ensure you replace 'investment_data.csv' with the actual file path to your dataset
 data = pd.read_csv('investment_data.csv')
 
-# EDA: Visualizing the distribution of the target variable (returns)
+# EDA: Visualizing the distribution of the target variable (returns))
 sns.histplot(data['returns'], kde=True)
 plt.title('Returns Distribution')
 plt.xlabel('Returns')
