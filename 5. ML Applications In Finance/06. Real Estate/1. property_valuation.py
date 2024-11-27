@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import cross_val_score
 
 # Load the dataset (e.g., real estate data))
-# Make sure to replace 'real_estate_data.csv' with the correct path to your dataset
+# Make sure to replace 'real_estate_data.csv' with the correct path to your dataseta
 data = pd.read_csv('real_estate_data.csv')
 
 # EDA: Visualizing the distribution of the target variable (price)
