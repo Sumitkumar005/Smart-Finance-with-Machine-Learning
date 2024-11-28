@@ -12,7 +12,7 @@ What is an LSTM?
 Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) architecture. An LSTM is designed to remember past information in sequence data and is widely used in time series analysis, natural language processing, and many other sequence-related tasks. Unlike standard feedforward neural networks, LSTMs have "memory" in the form of a cell state and hidden state, which helps them learn from the "context" or "sequence" of the inputs.
 
 How it works?
-Input Sequence: At each time step, the LSTM takes in an input and the previous cell state and hidden state 
+Input Sequence: At each time step,, the LSTM takes in an input and the previous cell state and hidden state 
 
 Forget Gate: Decide what information from the cell state should be thrown away.
 
