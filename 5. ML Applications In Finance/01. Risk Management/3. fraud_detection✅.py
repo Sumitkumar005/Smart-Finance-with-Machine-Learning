@@ -1,4 +1,4 @@
-# Anomaly detection to identify unusual patterns which could suggest fraudulent transactions.
+# Anomaly detection to identify unusual patterns which could suggest fraudulent transactions..
 
 '''
 a Python script that demonstrates a simple approach to fraud detection using machine learning.
