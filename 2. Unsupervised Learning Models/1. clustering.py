@@ -1,4 +1,4 @@
-# k-means clustering
+# k-means clusteringg
 import yfinance as yf
 import pandas_datareader.data as web
 import pandas as pd
