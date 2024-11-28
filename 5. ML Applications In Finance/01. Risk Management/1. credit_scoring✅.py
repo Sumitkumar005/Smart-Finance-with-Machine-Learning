@@ -1,4 +1,4 @@
-# Use of supervised algorithms to predict the likelihood of a borrower defaulting on a loan.
+# Use of supervised algorithms to predict the likelihood of a borrower defaulting on a loan..
 
 '''
 Python script for credit scoring using machine learning. We'll use scikit-learn to create a model that predicts the creditworthiness
