@@ -1,4 +1,4 @@
-# Predictive models to identify potential operational hazards and risks.
+# Predictive models to identify potential operational hazards and risks..
 
 '''
 a Python script that demonstrates how to use machine learning to predict operational hazards based on synthetic features.
