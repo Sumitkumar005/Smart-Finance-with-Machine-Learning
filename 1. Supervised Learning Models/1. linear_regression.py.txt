@@ -63,4 +63,4 @@ if __name__ == "__main__":
     plt.savefig('linear_regression_summary_with_explanation.png')
 
     # Show the plot
-    plt.show()
+    plt.show()   https://www.linkedin.com/posts/chirag-vaishnav-%F0%9F%87%AE%F0%9F%87%B3-27444b199_stopped-receiving-applications-slice-activity-7237023923207356416-vmHL?utm_source=share&utm_medium=member_desktop
