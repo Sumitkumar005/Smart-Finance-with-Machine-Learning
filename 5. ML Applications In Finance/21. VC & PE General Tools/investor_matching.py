@@ -1,4 +1,4 @@
-# An algorithm that matches startups with potential investors based on investor preference, startup sector, stage, and other factors.
+# An algorithm that matches startups with potential investors based on investor prekference, startup sector, stage, and other factors.
 
 """
 Algorithm to match startups with potential investors based on preferences and factors like sector, stage, and other attributes.
