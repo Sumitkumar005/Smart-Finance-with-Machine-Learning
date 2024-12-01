@@ -1,5 +1,5 @@
 # Create an algorithm that uses machine learning to identify emerging sectors or trends based on news articles, 
-# patent filings, academic papers, or market data.
+# patent filings, academic papers, or market data..
 
 """
 Python script for identifying emerging sectors or trends using machine learning and natural language processing (NLP).
