@@ -1,6 +1,6 @@
 # Create a tool that uses historical data to estimate the potential synergies between two merging companies,
 # including cost-saving and revenue synergies.
-# Estimating Synergies between Merging Companies using Machine Learning
+# Estimating Synergies between Merging Companies using Machine Learning.
 
 import pandas as pd
 import numpy as np
