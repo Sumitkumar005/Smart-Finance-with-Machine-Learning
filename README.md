@@ -33,7 +33,7 @@ The repository consists of the following categories:
        - Recurrent Neural Networks (LSTM)
        - Convolutional Neural Networks (CNN)
     - Unsupervised Deep Learning Models
-       - Autoencoders
+       - Autoencoders.
        - Generative Adversarial Networks (GANs)
 
 4. **Reinforcement Learning Models** 🦾 🚥
